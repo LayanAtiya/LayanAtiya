@@ -21,6 +21,7 @@ I recently graduated from the University of Maryland with a B.S. in Information 
 | [Flight Price Analysis](https://github.com/LayanAtiya/Flight-Price-Analysis) | Data cleaning, exploratory analysis, visualization, and insight communication across 206,774 records | Python, Pandas, Seaborn |
 | [Spotify Collaboration Network](https://github.com/LayanAtiya/Spotify_Network_Analysis) | API integration, graph modeling, network analysis, and visualization | Python, Spotify API, NetworkX |
 | Climate Risk Intelligence | Team-built full-stack application generating location-based climate risk reports, forecasts, maps, and saved reports | Node.js, Express, Supabase, Chart.js, Leaflet |
+
 Climate Risk Intelligence was developed collaboratively.
 
 ## Technical toolkit
