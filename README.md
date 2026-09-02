@@ -20,7 +20,7 @@ I recently graduated from the University of Maryland with a B.S. in Information 
 | [College ROI Clustering](https://github.com/LayanAtiya/Clustering-Colleges-to-Find-Best-ROI) | Business-focused analytics using public education data to compare debt and earnings outcomes | Python, K-Means, Seaborn |
 | [Flight Price Analysis](https://github.com/LayanAtiya/Flight-Price-Analysis) | Data cleaning, exploratory analysis, visualization, and insight communication across 206,774 records | Python, Pandas, Seaborn |
 | [Spotify Collaboration Network](https://github.com/LayanAtiya/Spotify_Network_Analysis) | API integration, graph modeling, network analysis, and visualization | Python, Spotify API, NetworkX |
-| [Climate Risk Intelligence] (https://github.com/SammarJaffery/INST377FinalProject) | Team-built full-stack application generating location-based climate risk reports, forecasts, maps, and saved reports | Node.js, Express, Supabase, Chart.js, Leaflet |
+| [Climate Risk Intelligence](https://github.com/SammarJaffery/INST377FinalProject) | Team-built full-stack application generating location-based climate risk reports, forecasts, maps, and saved reports | Node.js, Express, Supabase, Chart.js, Leaflet |
 
 Climate Risk Intelligence was developed collaboratively.
 
