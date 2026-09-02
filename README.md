@@ -32,5 +32,3 @@ I recently graduated from the University of Maryland with a B.S. in Information 
 
 - [LinkedIn](https://www.linkedin.com/in/layanatiya)
 - [Medium](https://medium.com/@layanatiya)
-
-I'm currently interested in early-career opportunities in data analytics, technical business analysis, business intelligence, implementation, automation, and applied AI.
