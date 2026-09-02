@@ -4,7 +4,7 @@ I'm a data and technical analyst who uses Python, SQL, APIs, analytics, and auto
 
 I recently graduated from the University of Maryland with a B.S. in Information Science, a minor in Business Analytics, and a 3.9 GPA. My experience spans operational analytics, dashboard development, workflow automation, geospatial analysis, machine learning, and stakeholder communication.
 
-## What I bring
+## What I've worked on
 
 - Analyzed 50,000+ fleet records with Python and SQL at the DC Department of Public Works
 - Supported recommendations projected to improve operational efficiency by approximately 18%
